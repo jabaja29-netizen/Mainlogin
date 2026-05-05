@@ -1,0 +1,1 @@
+export { QuoteSlider } from "./QuoteSlider";
